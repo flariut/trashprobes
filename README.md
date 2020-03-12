@@ -1,5 +1,5 @@
 # tr4sh_pr0b3s
-Generative visuals and sounds based on 802.11b Probe Request vulnerability.
+Generative visuals and sounds based on 802.11 Probe Request vulnerability.
 
 ## Description
 This project was made for UNTREF's Electronic Arts Laboratory I final practice work, and right now it's configured to run in my very specific setup.
